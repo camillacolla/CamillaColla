@@ -1,17 +1,17 @@
-# 👋 Olá, eu sou a Camilla
+# 👋 Olá, eu sou a Camilla Colla  
 
 ## 🎓 Formação
 - Contadora registrada  
-- Estudante de **Ciências da Computação**  
+- Estudante de Ciências da Computação  
 
 ## 💼 Experiência
 - Mais de 10 anos em escritório de contabilidade  
-- Atuação em rotinas fiscais, contábeis e trabalhistas  
+- Rotinas fiscais, contábeis e trabalhistas  
 - Abertura, legalização e regularização de empresas  
-- Declaração de Imposto de Renda de Pessoa Física  
+- Declarações de Imposto de Renda (Pessoa Física)  
 
 ## 💻 Objetivo
-- Transição de carreira para a área de Tecnologia da Informação  
+- Transição de carreira para TI  
 - Interesse em desenvolvimento de software e sistemas aplicados à contabilidade  
 
 ## 📫 Contato
