@@ -2,16 +2,16 @@
 
 ## 🎓 Formação
 - Contadora registrada  
-- Estudante de **Ciências da Computação** 
+- Estudante de **Ciências da Computação**  
 
 ## 💼 Experiência
 - Mais de 10 anos em escritório de contabilidade  
-- Rotinas fiscais, contábeis e trabalhistas  
+- Atuação em rotinas fiscais, contábeis e trabalhistas  
 - Abertura, legalização e regularização de empresas  
-- Declarações de Imposto de Renda (Pessoa Física) 
+- Declaração de Imposto de Renda de Pessoa Física  
 
 ## 💻 Objetivo
-- Transição de carreira para Tecnologia da Informação  
+- Transição de carreira para a área de Tecnologia da Informação  
 - Interesse em desenvolvimento de software e sistemas aplicados à contabilidade  
 
 ## 📫 Contato
