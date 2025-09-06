@@ -1,12 +1,16 @@
-Olá, eu sou a Camilla 👋
+# 👋 Olá, eu sou a Camilla 
 
-Sou Contadora com mais de 10 anos de experiência na área contábil e atualmente estou em transição de carreira para a área de Tecnologia da Informação..  
+## 🎓 Formação
+- Contadora registrada  
+- Graduanda em Ciências da Computação pela Cruzeiro do Sul Virtual  
 
-🎓 Estudante de Ciências da Computação.  
-📊 Tenho experiência em rotinas contábeis, fiscais e trabalhistas.  
-💻 Interesse em aprender desenvolvimento de software e criar soluções que otimizem processos contábeis.  
+## 💼 Experiência
+- Mais de 10 anos de atuação na área contábil  
+- Rotinas fiscais, contábeis e trabalhistas  
 
----
+## 💻 Objetivo
+- Transição de carreira para Tecnologia da Informação  
+- Interesse em desenvolvimento de software e sistemas aplicados à contabilidade  
 
-✉️ Como me encontrar:  
-- LinkedIn: [Camilla Colla](https://www.linkedin.com/in/camilla-colla-b30a45382/)  
+## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/camilla-colla-b30a45382/)
