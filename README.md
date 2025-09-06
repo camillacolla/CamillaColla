@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Camilla Colla  
+# 👋 Olá, eu sou a Camilla
 
 ## 🎓 Formação
 - Contadora registrada  
