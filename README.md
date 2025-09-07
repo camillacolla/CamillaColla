@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou a Camilla Colla  
 
 ## 🎓 Formação
-- Contadora registrada  
+- Contadora   
 - Estudante de Ciências da Computação  
 
 ## 💼 Experiência
